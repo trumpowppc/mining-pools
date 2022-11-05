@@ -595,6 +595,10 @@
         "Titan.io": {
             "name" : "Titan",
             "link" : "https://titan.io/"
+        },
+        "/pegapool/" : {
+            "name" : "PEGA Pool",
+            "link" : "https://www.pega-pool.com"
         }
     },
     "payout_addresses" : {
@@ -1317,6 +1321,10 @@
          "14hLEtxozmmih6Gg5xrGZLfx51bEMj21NW": {
             "name" : "Titan",
             "link" : "https://titan.io/"
+        },
+        "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa" : {
+            "name" : "PEGA Pool",
+            "link" : "https://www.pega-pool.com"
         }
     },
     "slugs": {
@@ -1457,6 +1465,7 @@
         "tiger": "tiger",
         "1M1X": "1m1x",
         "OKMiner": "okminer",
-        "Titan": "titan"
+        "Titan": "titan",
+        "PEGA Pool": "pegapool"
     }
 }
