@@ -5,6 +5,7 @@ on:
     paths:
       - "**.json"
   pull_request:
+    types: [opened, review_requested, synchronize]
 
 jobs:
   json_validator:
