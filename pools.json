@@ -460,6 +460,10 @@
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
         },
+        "/poolin/": {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
         "/SecretSuperstar/": {
             "name" : "SecretSuperstar",
             "link" : ""
