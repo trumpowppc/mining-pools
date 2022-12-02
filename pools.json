@@ -205,8 +205,8 @@
             "link" : "http://give-me-coins.com/"
         },
         "/slush/" : {
-           "name" : "SlushPool",
-           "link" : "https://slushpool.com/"
+           "name" : "Braiins Pool",
+           "link" : "https://braiins.com/pool"
         },
         "Mined by AntPool" : {
             "name" : "AntPool",
@@ -675,12 +675,12 @@
             "link" : "https://polmine.pl/"
         },
         "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE" : {
-            "name" : "SlushPool",
-            "link" : "https://slushpool.com/"
+            "name" : "Braiins Pool",
+            "link" : "https://braiins.com/pool"
         },
         "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
-            "name" : "SlushPool",
-            "link" : "https://slushpool.com/"
+            "name" : "Braiins Pool",
+            "link" : "https://braiins.com/pool"
         },
         "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
             "name" : "BitFury",
@@ -1370,7 +1370,7 @@
         "NMCbit": "nmcbit",
         "Yourbtc.net": "yourbtcnet",
         "Give Me Coins": "givemecoins",
-        "SlushPool": "slushpool",
+        "Braiins Pool": "braiinspool",
         "AntPool": "antpool",
         "MultiCoin.co": "multicoinco",
         "bcpool.io": "bcpoolio",
