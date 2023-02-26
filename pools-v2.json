@@ -38,10 +38,12 @@
     "id": 4,
     "name": "Luxor",
     "addresses": [
-      "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe"
+      "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe",
+      "39bitUyBcUu3y3hRTtYprKbTp712t4ZWqK"
     ],
     "tags": [
-      "/LUXOR/"
+      "/LUXOR/",
+      "Powered by Luxor Tech"
     ],
     "link": "https://mining.luxor.tech"
   },
@@ -1214,7 +1216,8 @@
     "tags": [
       "/EMCD/",
       "/one_more_mcd/",
-      "get___emcd"
+      "get___emcd",
+      "emcd"
     ],
     "link": "https://pool.emcd.io"
   },
@@ -1511,5 +1514,17 @@
     ],
     "tags": [],
     "link": ""
+  },
+  {
+    "id": 140,
+    "name": "Zulupool",
+    "addresses": [
+      "1ZULUPooLEQfkrTgynLV4uHyMgQYx71ip"
+    ],
+    "tags": [
+      "ZULUPooL",
+      "ZU_test"
+    ],
+    "link": "https://beta.zulupool.com/"
   }
 ]
