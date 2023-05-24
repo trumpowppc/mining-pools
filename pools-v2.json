@@ -568,7 +568,8 @@
     "name": "NiceHash",
     "addresses": [],
     "tags": [
-      "/NiceHashSolo"
+      "/NiceHashSolo",
+      "/NiceHash/"
     ],
     "link": "https://solo.nicehash.com"
   },
