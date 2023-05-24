@@ -27,7 +27,8 @@
     "name": "Terra Pool",
     "addresses": [
       "32P5KVSbZYAkVmSHxDd2oBXaSk372rbV7L",
-      "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk"
+      "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk",
+      "bc1q39dled8an7enuxtmjql3pk7ny8kzvsxhd924sl"
     ],
     "tags": [
       "terrapool.io"
