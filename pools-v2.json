@@ -1529,5 +1529,16 @@
       "ZU_test"
     ],
     "link": "https://beta.zulupool.com/"
+  },
+  {
+    "id": 141,
+    "name": "SECPOOL",
+    "addresses": [
+      "3Awm3FNpmwrbvAFVThRUFqgpbVuqWisni9"
+    ],
+    "tags": [
+      "SecPool"
+    ],
+    "link": "https://www.secpool.com"
   }
 ]
