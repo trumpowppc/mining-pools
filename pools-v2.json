@@ -1547,7 +1547,9 @@
     "addresses": [
       "37dvwZZoT3D7RXpTCpN2yKzMmNs2i2Fd1n"
     ],
-    "tags": [],
+    "tags": [
+      "OCEAN.XYZ"
+    ],
     "link": "https://ocean.xyz/"
   }
 ]
