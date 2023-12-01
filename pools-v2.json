@@ -1540,5 +1540,14 @@
       "SecPool"
     ],
     "link": "https://www.secpool.com"
+  },
+  {
+    "id": 141,
+    "name": "OCEAN",
+    "addresses": [
+      "37dvwZZoT3D7RXpTCpN2yKzMmNs2i2Fd1n"
+    ],
+    "tags": [],
+    "link": "https://ocean.xyz/"
   }
 ]
