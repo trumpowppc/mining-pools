@@ -4,15 +4,15 @@ Mining pools definition used on https://mempool.space/mining/pools
 
 # Contributing
 
-Contributions welcome. All changes must be applied in `pools.json` file.
+Contributions welcome. All changes must be applied in `pools-v2.json` file.
 
 ## Adding a new mining pool
 
 Regardless of the choosen method, we recommend adding a appropriate slug to each
-new mining pool you add to `pools.json`. The slug will be used as a unique tag for
+new mining pool you add to `pools-v2.json`. The slug will be used as a unique tag for
 the mining pool, for example in the public facing urls like https://mempool.space/mining/pool/foundryusa (here `foundryusa` is the slug).
 
-You can specify mining pool slugs in the `slugs` object in `pools.json`. If you
+You can specify mining pool slugs in the `slugs` object in `pools-v2.json`. If you
 don't specify one, we will automatically generate one [as such](https://github.com/mempool/mempool/blob/02820b0e6836c4202c2e346195e8aace357e3483/backend/src/api/pools-parser.ts#L106-L110).
 
 ```javascript
@@ -95,15 +95,15 @@ for (let i = 0; i < pools.length; ++i) {
 ## Change an existing mining pool metadata
 
 You can also change an existing mining pool's name, link and slug. In order to
-do so properly, you must update all existing entry in the `pools.json` file.
+do so properly, you must update all existing entry in the `pools-v2.json` file.
 
 For example, if you'd like to rename `Foundry USA` to `Foundry Pool`, you must replace
-all occurences of the old string with the new one in `pools.json` file, with no
+all occurences of the old string with the new one in `pools-v2.json` file, with no
 exception, otherwise you'll end with two mining pools. The samme idea applies if
 you want to change the link or the slug.
 
 For example, to rename `Foundry USA` to `Foundry Pool` you'd need to update the
-following (using today's `pools.json` as reference):
+following (using today's `pools-v2.json` as reference):
 
 ```json
 // Original
@@ -181,14 +181,14 @@ the latest mining pool data.
 
 ## Mining pool definition
 
-When the mempool backend starts, we automatically fetch the latest `pools.json`
-version from github. By default the url points to https://github.com/mempool/mining-pools/blob/master/pools.json but you can configure it to points to another repo by setting
+When the mempool backend starts, we automatically fetch the latest `pools-v2.json`
+version from github. By default the url points to https://github.com/mempool/mining-pools/blob/master/pools-v2.json but you can configure it to points to another repo by setting
 the following backend variables:
 
 ```
 {
   "MEMPOOL": {
-    'POOLS_JSON_URL': 'https://raw.githubusercontent.com/mempool/mining-pools/master/pools.json',
+    'POOLS_JSON_URL': 'https://raw.githubusercontent.com/mempool/mining-pools/master/pools-v2.json',
     'POOLS_JSON_TREE_URL': 'https://api.github.com/repos/mempool/mining-pools/git/trees/master'
   }
 }
