@@ -1617,5 +1617,27 @@
       "/mined by a Solo FutureBit Apollo/"
     ],
     "link": "https://www.futurebit.io"
+  },
+  {
+    "id": 149,
+    "name": "emzy",
+    "addresses": [
+      "tb1qmf7xdqc5nvzhturuzc46qtq5kywdf3p76cpq53"
+    ],
+    "tags": [
+      "Emzy was here."
+    ],
+    "link": "https://twitter.com/emzy"
+  },
+  {
+    "id": 150,
+    "name": "knorrium",
+    "addresses": [
+      "tb1qtfqp4g7n7wc3sr6c2cuzsq62px4pfsxgsv2krx"
+    ],
+    "tags": [
+      "knorrium"
+    ],
+    "link": "https://twitter.com/knorrium"
   }
 ]
