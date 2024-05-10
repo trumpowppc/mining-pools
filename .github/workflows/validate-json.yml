@@ -11,8 +11,16 @@ jobs:
   json_validator:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: json-syntax-check
-        uses: limitusus/json-syntax-check@v1
-        with:
-          pattern: "\\.json$"
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Check for duplicates
+        run : |
+          sh dupes.sh
+
+      - name: Check JSON syntax
+        run: |
+          if ! jq empty pools-v2.json; then
+            echo "JSON syntax check failed"
+            exit 1
+          fi
