@@ -1640,5 +1640,15 @@
       "knorrium"
     ],
     "link": "https://twitter.com/knorrium"
+  },
+  {
+    "id": 151,
+    "name": "Carbon Negative",
+    "addresses": [
+      "33SAB6pzbhEGPbfY6NVgRDV7jVfspZ3A3Z",
+      "3KZDwmJHB6QJ13QPXHaW7SS3yTESFPZoxb"
+    ],
+    "tags": [],
+    "link": "https://github.com/bitcoin-data/mining-pools/issues/48"
   }
 ]
