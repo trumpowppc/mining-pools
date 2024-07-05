@@ -1650,5 +1650,13 @@
     ],
     "tags": [],
     "link": "https://github.com/bitcoin-data/mining-pools/issues/48"
+  },
+  {
+    "id": 152,
+    "name": "Portland.HODL",
+    "addresses": [
+    ],
+    "tags": ["Portland.HODL"],
+    "link": ""
   }
 ]
