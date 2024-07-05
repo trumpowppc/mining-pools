@@ -1658,5 +1658,16 @@
     ],
     "tags": ["Portland.HODL"],
     "link": ""
+  },
+  {
+    "id": 153,
+    "name": "Phoenix",
+    "addresses": [
+      "37cGvBD4qufoZQHopGS7XstxRUzx5cNuy1",
+      "bc1q2zcenaujmmdv8sqgf723cug4vjnphkvvf8zpst",
+      "1Ld6okoaLNDbSnougAyQTrchxRn9ELnTJg"
+    ],
+    "tags": ["/Phoenix/"],
+    "link": "https://phoenixpool.com"
   }
 ]
