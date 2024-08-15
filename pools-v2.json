@@ -1669,5 +1669,14 @@
     ],
     "tags": ["/Phoenix/"],
     "link": "https://phoenixpool.com"
+  },
+  {
+    "id": 154,
+    "name": "Neopool",
+    "addresses": [
+      "1HCAb2h89bUinm6QZrAPpfbk4ySBrT2V4w"
+    ],
+    "tags": ["/Neopool/"],
+    "link": "https://neopool.com/"
   }
 ]
