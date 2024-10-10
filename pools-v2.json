@@ -1678,5 +1678,14 @@
     ],
     "tags": ["/Neopool/"],
     "link": "https://neopool.com/"
+  },
+  {
+    "id": 155,
+    "name": "MaxiPool",
+    "addresses": [
+      "36r3YqAXWpyqNcczjCBdHrYZ3m8X56WDzx"
+    ],
+    "tags": ["/MaxiPool/"],
+    "link": "https://maxipool.org/"
   }
 ]
