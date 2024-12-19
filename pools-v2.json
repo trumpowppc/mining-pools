@@ -1699,5 +1699,14 @@
       "DrDetroit"
     ],
     "link": "https://x.com/bankhatin"
+  },
+  {
+    "id": 157,
+    "name": "BitFuFuPool",
+    "addresses": [
+      "3JP3zF7LoeoAotqkNGdvX5szUyNPwd937d"
+    ],
+    "tags": ["/BitFuFu/"],
+    "link": "https://www.bitfufu.com/pool"
   }
 ]
