@@ -1739,5 +1739,14 @@
       "Public Pool on Umbrel"
     ],
     "link": "https://web.public-pool.io/"
+  },
+  {
+    "id": 161,
+    "name": "Mining Squared",
+    "addresses": [
+      "3GdjWJdkJhtkxRZ3Ns1LstaoHNMBW8XsvU"
+    ],
+    "tags": ["MiningSquared", "BSquared Network"],
+    "link": "https://pool.bsquared.network/"
   }
 ]
