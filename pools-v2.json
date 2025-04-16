@@ -1758,5 +1758,14 @@
     ],
     "tags": ["Innopolis", "Innopolis.tech"],
     "link": "https://innopolis.tech/"
+  },
+  {
+    "id": 163,
+    "name": "nymkappa",
+    "addresses": [
+      "tb1qdyy39724wqnqqqduv6zxsf56s2ec9lgypxs59h"
+    ],
+    "tags": ["/@nymkappa/"],
+    "link": "https://github.com/nymkappa"
   }
 ]
