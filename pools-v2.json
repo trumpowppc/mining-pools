@@ -1777,5 +1777,12 @@
       "BTCLab.dev"
     ],
     "link": "https://btclab.dev/"
+  },
+  {
+    "id": 165,
+    "name": "Parasite",
+    "addresses": [],
+    "tags": ["parasite"],
+    "link": "https://parasite.space"
   }
 ]
