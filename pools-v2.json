@@ -383,8 +383,7 @@
     "id": 36,
     "name": "F2Pool",
     "addresses": [
-      "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY",
-      "bc1qf274x7penhcd8hsv3jcmwa5xxzjl2a6pa9pxwm"
+      "TNVdqGGupeXxF1Q33RBPvJ3UbvyRdXxus6"
     ],
     "tags": [
       "七彩神仙鱼",
@@ -465,43 +464,8 @@
     "id": 44,
     "name": "AntPool",
     "addresses": [
-      "12dRugNcdxK39288NjcDV4GX7rMsKCGn6B",
-      "15kiNKfDWsq7UsPg87UwxA8rVvWAjzRkYS",
-      "16MdTdqmXusauybtXTmFEW4GNFPPgGxQYE",
-      "16kUc5B48qnASbxeZTisCqTNx6G3DPXuKn",
-      "17gVZssumiJqYMCHozHKXGyaAvyu6NCX6V",
-      "1AJQ3jXhUF8WiisEcuVd8Xmfq4QJ7n1SdL",
-      "1B7ZBX2C39b26M9chHLURGSFTJA6DDQkZv",
-      "1BWW3pg5jb6rxebrNeo9TATarwJ1rthnoe",
-      "1CBqo1w3hmm9SCmbu2Yg6Ls4uLfkUqZJsx",
-      "1CZHhV67Qos4xXb8uYqvAGjK8Wq52woPi5",
-      "1CyB8GJNEsNVXtPutB36nrDY3fMXBTzXSX",
-      "1D4UZG4qo8bF1MuZHSEyBHRZaxT8inatXS",
-      "1D9jw3QHNankXxtcGVihsDK7Z7THN6j7Pg",
-      "1DDXyKUT6q3H9e5QXm2Gv6BNNWgztFG55g",
-      "1DQaDTefKPjHz3beLuo8KHRZF9t2Sc6foP",
-      "1Dek9ArRHb9tyWb9gaaX8SWmkfi5V7U5Y6",
-      "1DyR7HPQWjM6Zrnk7SzHVY2GEpXRGNNH9o",
-      "1FdJkPdpXtK3t5utZHJAop3saLZWfPfgak",
-      "1FrHkVsW7csAYYaRbUUcrKSmv91hcQnsqQ",
-      "1GEG1JR81jvUXs7TMAuo3SPBHZrpJijcjt",
-      "1GRcX882sdBYCAWyG99iF2oz7j3nYzXhLM",
-      "1GT2N4dCufvbnTKMbS61QrQPN4SexCAFiH",
-      "1Gp7iCzDGMZiV55Kt8uKsux6VyoHe1aJaN",
-      "1H3u6R813MHGYhmGW6v86EYYriawRtACYD",
-      "1H6ckqNWikmVT3wpN3X1BQ6b156Xc9nT2L",
-      "1JBVrhSSDrZrRmm4RnoWouqgGGqJMvWHi8",
-      "1JwUDWVSbAY5NeCBJhxQk1E8AfETfZuPj4",
-      "1K8PNogxBZ6ts532DZnzxdbjgzJLjLdXqz",
-      "1KmgBTL7cFmFFYTD7HcdkMcZXRcTkh2WwS",
-      "1LTGvTjDxiy5S9YcKEE9Lb7xSpZcPSqinw",
-      "1MiQrT5sEKTUGNMbd9WS3yPPkSjWdpYA2r",
-      "1NS4gbx1G2D5rc9PnvVsPys12nKxGiQg72",
-      "1Nh7uHdvY6fNwtQtM1G5EZAFPLC33B59rB",
-      "1Pzf7qT7bBGouvnjRvtRD8VhTyqjX1NrJT",
-      "1Sjj2cPC3rTWcSTEYDeu2f3BavLosog4T",
-      "1jLVpwtNMfXWaHY4eiLDmGuBxokYLgv1X",
-      "3FaYVQF6wCMUB9NCeRe4tUp1zZx8qqM7H1"
+      "TUmawuHCB7T57U52H8si1YsCb4k9Lnf6nw",
+      "15kiNKfDWsq7UsPg87UwxA8rVvWAjzRkYS"
     ],
     "tags": [
       "/AntPool/",
@@ -809,7 +773,9 @@
   {
     "id": 73,
     "name": "ViaBTC",
-    "addresses": [],
+    "addresses": [
+      "TDn5aueDnTgfWKrskih5PMkvrUniMQ4kdU"
+    ],
     "tags": [
       "/ViaBTC/",
       "viabtc.com deploy"
@@ -1725,7 +1691,7 @@
     "id": 159,
     "name": "Mining-Dutch",
     "addresses": [
-      "1AfPSq5ZbqBaxU5QAayLQJMcXV8HZt92eq"
+      "TM5UjEW4qr9miJdhFGxQhm9hZ3hpS3aPJL"
     ],
     "tags": ["/Mining-Dutch/"],
     "link": "https://www.mining-dutch.nl/"
@@ -1784,5 +1750,23 @@
     "addresses": [],
     "tags": ["parasite"],
     "link": "https://parasite.space"
+  },
+  {
+    "id": 166,
+    "name": "LongPool",
+    "addresses": [
+      "THKWu1Ybaun4RGmU3U4DLteixKSb3GV1rh"
+    ],
+    "tags": ["GoodLuckyBoom"],
+    "link": "https://longpool.org/"
+  },
+  {
+    "id": 167,
+    "name": "hash-hut",
+    "addresses": [
+      "TKt474YKFFWM3BLV6van6t87tWeZ69zGM3"
+    ],
+    "tags": ["hash-hut.net"],
+    "link": "https://hash-hut.net"
   }
 ]
