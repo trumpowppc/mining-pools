@@ -58,11 +58,11 @@
   },
   {
     "id": 6,
-    "name": "hash-hut",
+    "name": "Hash-Hut",
     "addresses": [
       "TKt474YKFFWM3BLV6van6t87tWeZ69zGM3"
     ],
-    "tags": ["hash-hut.net"],
+    "tags": ["/hash-hut.net/"],
     "link": "https://hash-hut.net"
   },
   {
