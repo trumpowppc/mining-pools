@@ -67,11 +67,16 @@
   },
   {
     "id": 7,
-    "name": "EMCD",
+    "name": "EMCDPool",
     "addresses": [
       "THAVHywYfHZ6V13hWBMFMAbE45aM8hxeCw"
     ],
-    "tags": ["emcd"],
+    "tags": [
+      "/EMCD/",
+      "/one_more_mcd/",
+      "get___emcd",
+      "emcd"
+    ],
     "link": "https://emcd.io/pool"
   }
 
