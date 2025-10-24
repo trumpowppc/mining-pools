@@ -17,7 +17,11 @@
     "name": "AntPool",
     "addresses": [
       "TUmawuHCB7T57U52H8si1YsCb4k9Lnf6nw",
-      "15kiNKfDWsq7UsPg87UwxA8rVvWAjzRkYS"
+      "15kiNKfDWsq7UsPg87UwxA8rVvWAjzRkYS",
+      "TFkiqeKLzUq2RiKigtoembeGJXEhdUMxDY",
+      "TJDQ44bTbPwZGWfgS62oGJ1EDnGTpBeYZf",
+      "TTwPHvLDTyySNvAfvSm1jpcjzHHyZnowj6",
+      "TLHjEZoHFSMgRPoijSmvwNqdKQtnxNyBUj",
     ],
     "tags": [
       "/AntPool/",
@@ -77,6 +81,60 @@
       "emcd"
     ],
     "link": "https://emcd.io/pool"
+  },
+  {
+    "id": 8,
+    "name": "PMPMining",
+    "addresses": [
+      "MAyHLYwpGFst1d5qTiBEYFMHUwhs5vqHbk"
+    ],
+    "tags": [],
+    "link": "https://www.pmpmining.com"
+  },
+  {
+    "id": 9,
+    "name": "Minorpool",
+    "addresses": [
+      "TSNHpdehXo46yUrnL1dntfeE9FPrpjkg8J"
+    ],
+    "tags": [],
+    "link": "https://minorpool.com"
+  },
+  {
+    "id": 10,
+    "name": "Regularpool",
+    "addresses": [
+      "TTgTrZH6fxZuKff6gM5TCu1K7V4LPxFKjM"
+    ],
+    "tags": [],
+    "link": "https://regularpool.com"
+  },
+  {
+    "id": 11,
+    "name": "Zelmex",
+    "addresses": [
+      "TLLLbUNAgPNiDXqobeEacK5hk18J28CGY9"
+    ],
+    "tags": [],
+    "link": "https://zalmex.online"
+  },
+  {
+    "id": 12,
+    "name": "btc.com",
+    "addresses": [
+      "TUxeJH5hX5GNg1xgtGYtuvxaud2FLhKegg"
+    ],
+    "tags": ["/BTC.COM/", "/BTC.com/", "btccom"],
+    "link": "https://pool.btc.com"
+  },
+  {
+    "id": 13,
+    "name": "poolkh",
+    "addresses": [
+      "TBrkEceFgJ2xj9QHhmUxPjL6eDVYHceiRk"
+    ],
+    "tags": [],
+    "link": "https://poolkh.com"
   }
 
 ]
