@@ -1,6 +1,6 @@
 # Bitcoin Mining Pools
 
-Mining pools definition used on https://mempool.space/mining/pools
+Mining pools definition used on https://trmpspace.trumpow.meme/mining/pools
 
 # Contributing
 
@@ -182,14 +182,14 @@ the latest mining pool data.
 ## Mining pool definition
 
 When the mempool backend starts, we automatically fetch the latest `pools-v2.json`
-version from github. By default the url points to https://github.com/mempool/mining-pools/blob/master/pools-v2.json but you can configure it to points to another repo by setting
+version from github. By default the url points to https://github.com/trumpowppc/mining-pools/blob/master/pools-v2.json but you can configure it to points to another repo by setting
 the following backend variables:
 
 ```
 {
   "MEMPOOL": {
-    'POOLS_JSON_URL': 'https://raw.githubusercontent.com/mempool/mining-pools/master/pools-v2.json',
-    'POOLS_JSON_TREE_URL': 'https://api.github.com/repos/mempool/mining-pools/git/trees/master'
+    'POOLS_JSON_URL': 'https://raw.githubusercontent.com/trumpowppc/mining-pools/master/pools-v2.json',
+    'POOLS_JSON_TREE_URL': 'https://api.github.com/repos/trumpowppc/mining-pools/git/trees/master'
   }
 }
 ```
