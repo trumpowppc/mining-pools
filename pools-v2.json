@@ -56,7 +56,10 @@
     "addresses": [
       "THKWu1Ybaun4RGmU3U4DLteixKSb3GV1rh"
     ],
-    "tags": ["GoodLuckyBoom"],
+    "tags": [
+      "GoodLuckyBoom",
+      "longpool"
+    ],
     "link": "https://longpool.org/"
   },
   {
