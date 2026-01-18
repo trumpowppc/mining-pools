@@ -183,6 +183,18 @@
       "okminer"
     ],
     "link": ""
+  },
+  {
+    "id": 18,
+    "name": "Zpool",
+    "addresses": [
+      "TC44Zkd7UoSTsBd6v4gnBR4Mm7vimuYoGn"
+    ],
+    "tags": [
+      "/zpool.ca/",
+      "zpool.ca"
+    ],
+    "link": "https://zpool.ca"
   }
 
 ]
