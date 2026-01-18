@@ -198,6 +198,18 @@
       "zpool.ca"
     ],
     "link": "https://zpool.ca"
+  },
+  {
+    "id": 19,
+    "name": "Hashpoolpro",
+    "addresses": [
+      "TDWpcwQxQRA36FjjGoKAHufFXaAjkQr1Xw"
+    ],
+    "tags": [
+      "/hashpoolpro.com/",
+      "hashpoolpro.com"
+    ],
+    "link": "https://hashpoolpro.com"
   }
-
+  
 ]
