@@ -1,6 +1,6 @@
 # Bitcoin Mining Pools
 
-Mining pools definition used on https://trmpspace.trumpow.meme/mining/pools
+Mining pools definition used on https://trmpspace.trumpow.meme/graphs/mining/pools
 
 # Contributing
 
