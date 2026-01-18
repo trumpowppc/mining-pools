@@ -159,6 +159,30 @@
       "LUXOR LABS <3"
     ],
     "link": ""
+  },
+  {
+    "id": 16,
+    "name": "Binance Pool",
+    "addresses": [
+      "TTq7BggfokEys8BUBf37A6o9YnLyhE5ptV"
+    ],
+    "tags": [
+      "/Binance/",
+      "Binance"
+    ],
+    "link": ""
+  },
+  {
+    "id": 17,
+    "name": "LUXOR LABS <3",
+    "addresses": [
+      "TFi2LKmpHsjmG7Qr91eEzbL7yDEEHPYZ1d"
+    ],
+    "tags": [
+      "/okminer/",
+      "okminer"
+    ],
+    "link": ""
   }
 
 ]
