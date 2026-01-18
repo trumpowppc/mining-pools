@@ -135,6 +135,30 @@
     ],
     "tags": [],
     "link": "https://poolkh.com"
+  },
+  {
+    "id": 14,
+    "name": "KuPool",
+    "addresses": [
+      "TXoeKc5QbmY7we71ePRkCf67m2T6pZc5PL"
+    ],
+    "tags": [
+      "/kupool/",
+      "KuPool"
+    ],
+    "link": "https://kupool.com"
+  },
+  {
+    "id": 15,
+    "name": "LUXOR LABS <3",
+    "addresses": [
+      "TXoeKc5QbmY7we71ePRkCf67m2T6pZc5PL"
+    ],
+    "tags": [
+      "/LUXOR LABS <3/",
+      "LUXOR LABS <3"
+    ],
+    "link": ""
   }
 
 ]
